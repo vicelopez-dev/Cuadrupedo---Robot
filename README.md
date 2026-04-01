@@ -1,1 +1,1 @@
-# Cuadrupedo---Robot
+# Quadruped / Cuadrupedo -Robot
