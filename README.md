@@ -6,7 +6,7 @@
 - Este proyecto consiste en un robot controlado (próximamente autónomo) que se desplaza imitando el movimiento de un cuadrúpedo (diseño bio-inspirado) y realiza funciones como la detección de humedad del suelo y, próximamente, la detección de temperatura ambiental.
 
 ## Images / Imágenes
-![Quadruped](images/quadruped.jpg)
+![Quadruped](images/Quadruped.jpg)
 
 ## Components / Componentes
 - ESP32
